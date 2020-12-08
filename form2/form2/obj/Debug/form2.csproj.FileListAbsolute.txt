@@ -1,0 +1,9 @@
+F:\8th semester\oop2\final term\code\performence\form2\form2\bin\Debug\form2.exe.config
+F:\8th semester\oop2\final term\code\performence\form2\form2\bin\Debug\form2.exe
+F:\8th semester\oop2\final term\code\performence\form2\form2\bin\Debug\form2.pdb
+F:\8th semester\oop2\final term\code\performence\form2\form2\obj\Debug\form2.Form1.resources
+F:\8th semester\oop2\final term\code\performence\form2\form2\obj\Debug\form2.Properties.Resources.resources
+F:\8th semester\oop2\final term\code\performence\form2\form2\obj\Debug\form2.csproj.GenerateResource.cache
+F:\8th semester\oop2\final term\code\performence\form2\form2\obj\Debug\form2.csproj.CoreCompileInputs.cache
+F:\8th semester\oop2\final term\code\performence\form2\form2\obj\Debug\form2.exe
+F:\8th semester\oop2\final term\code\performence\form2\form2\obj\Debug\form2.pdb
